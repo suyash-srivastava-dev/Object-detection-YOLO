@@ -1,5 +1,18 @@
 # DL lab
 
+## Results
+1. Training
+   
+![exp11/train_batch1.jpg](exp11/train_batch1.jpg)
+
+2. Validation
+   
+![exp11/val_batch0_labels.jpg](exp11/val_batch0_labels.jpg)
+
+3. train/test matrics
+
+![exp11/results.png](exp11/results.png)
+
 ## References
 
 - https://github.com/ultralytics/yolov5
